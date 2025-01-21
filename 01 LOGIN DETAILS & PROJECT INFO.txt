@@ -1,4 +1,3 @@
-
 **Database Name: ecommerceweb**
 
 **Admin Login Details**
